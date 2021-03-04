@@ -1,0 +1,1 @@
+(window["webpackJsonp_QiankunChildAppTwo"]=window["webpackJsonp_QiankunChildAppTwo"]||[]).push([["chunk-2d0e95df"],{"8cdb":function(n,e,u){"use strict";u.r(e);var i=function(){var n=this,e=n.$createElement,u=n._self._c||e;return u("div")},l=[],t=u("2877"),c={},p=Object(t["a"])(c,i,l,!1,null,null,null);e["default"]=p.exports}}]);
