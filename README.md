@@ -5,8 +5,8 @@
 此项目为使用qiankun、single-spa、micro-core及micro-messenger
 在iview admin基础上进行微前端改造形成的子应用示例。
 
-访问主应用入口 [https://micro-frontends-lab.io/QiankunMainApp](https://micro-frontends-lab.io/QiankunMainApp)
-可预览子应用 [https://micro-frontends-lab/QiankunChildAppOne](https://micro-frontends-lab/QiankunChildAppOne)
+访问主应用入口 [https://micro-frontends-lab.github.io/QiankunMainApp](https://micro-frontends-lab.github.io/QiankunMainApp)
+可预览子应用 [https://github.com/micro-frontends-lab/QiankunChildAppOne](https://github.com/micro-frontends-lab/QiankunChildAppOne)
 和当前子应用被动态调度的过程。
 
 ## 快速开始
